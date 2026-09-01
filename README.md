@@ -43,5 +43,3 @@ LLM     Ollama · OpenAI 兼容接口 · Qwen · Claude · GPT
 ```
 
 ---
-
-> 本 README 与仓库 commit 历史、ADR 文档、CI 门禁是同一个人持续维护的——看一眼 git log 就能验证。
