@@ -1,4 +1,4 @@
-# 张佳豪 / William Clifton
+# William Clifton
 
 **AI 后端工程师 · AI 应用方向 · 健康 + AI 复合背景**
 
