@@ -1,8 +1,6 @@
-# 张佳豪 / William Clifton
+# William Clifton
 
 **AI 后端工程师 · AI 应用方向 · 健康 + AI 复合背景**
-
-温州医科大学信息管理与信息系统本科 · 杭州
 
 ---
 
@@ -45,5 +43,3 @@ LLM     Ollama · OpenAI 兼容接口 · Qwen · Claude · GPT
 ```
 
 ---
-
-> 本 README 与仓库 commit 历史、ADR 文档、CI 门禁是同一个人持续维护的——看一眼 git log 就能验证。
